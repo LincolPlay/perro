@@ -1,0 +1,5 @@
+#EXTmu
+#EXTINF:-1 tvg-id="a03e" tvg-name="PAR | TELEFUTURO HD" tvg-logo="https://static.epg.best/py/Telefuturo.py.png" group-title="NACIONALES",PAR | TELEFUTURO HD
+http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+#EXTINF:-1 tvg-id="a0gw" tvg-name="PAR | GEN TV HD" tvg-logo="https://od.lk/s/ODBfMzI1NDMxMTFf/GEN%20TV.png" group-title="NACIONALES",PAR | GEN TV HD
+https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w72705889.m3u8
